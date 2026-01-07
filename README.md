@@ -21,7 +21,7 @@ This dashboard helps HR teams and decision-makers identify patterns behind **emp
 
 ## 🖼️ Dashboard Preview
 
-![People Dashboard](Screenshot 2026-01-07 234736.png)
+![People Dashboard](people_dashboard.png)
 
 ---
 
